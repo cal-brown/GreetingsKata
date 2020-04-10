@@ -1,3 +1,3 @@
-const sum = require('./sum')
+const greet = require('./greet')
 
-console.log(sum(1, 2).toString())
+console.log(greet('Bob'))
